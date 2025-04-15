@@ -1,22 +1,3 @@
-
-//YOUR FILE HEADER HERE
-///////////////////////////////////////////////////////////////////////////////
-// This File:        (csim.c)
-// Other Files:      (name of all other files if any)
-// Semester:         CS 354 Fall 2020
-//
-// Author:           (Mihir Khatri)
-// Email:            (mkhatri@wisc.edu)
-// CS Login:         (khatri)
-////////////////////////////////////////////////////////////////////////////////
-////////////////////////////////////////////////////////////////////////////////
-//
-// Copyright 2013,2019-2020, Jim Skrentny, (skrentny@cs.wisc.edu)
-// Posting or sharing this file is prohibited, including any changes/additions.
-// Used by permission, CS354-Fall 2020, Deb Deppeler (deppeler@cs.wisc.edu) 
-//
-////////////////////////////////////////////////////////////////////////////////
-
 /**
  * csim.c:  
  * A cache simulator that can replay traces (from Valgrind) and 
